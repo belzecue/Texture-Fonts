@@ -13,4 +13,4 @@ Download the addon, enable it, and create a new Resource with the type "TextureF
 
 Check out the examples included in this repository to see what's possible when creating your own Fonts.
 
-For guides and a complete documentation, see the [Wiki](https://github.com/ElectronicBlueberry/Texture-Fonts/wiki)
+For guides and a complete documentation, see the [Wiki](https://docs.google.com/document/d/1VntQ1yYOvKlGonU5n88ZCih2XhLGGm1rsRWbt4KWTfo/edit)
